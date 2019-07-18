@@ -1,11 +1,17 @@
-.. image:: https://img.shields.io/travis/django-parler/django-parler/master.svg?branch=master
-    :target: http://travis-ci.org/django-parler/django-parler
+.. image:: https://img.shields.io/travis/polyconseil/django-parler-encore/master.svg?branch=master
+    :target: http://travis-ci.org/polyconseil/django-parler-encore
 .. image:: https://img.shields.io/pypi/v/django-parler.svg
     :target: https://pypi.python.org/pypi/django-parler/
 .. image:: https://img.shields.io/pypi/l/django-parler.svg
     :target: https://pypi.python.org/pypi/django-parler/
-.. image:: https://img.shields.io/codecov/c/github/django-parler/django-parler/master.svg
-    :target: https://codecov.io/github/django-parler/django-parler?branch=master
+.. image:: https://img.shields.io/codecov/c/github/polyconseil/django-parler-encore/master.svg
+    :target: https://codecov.io/github/polyconseil/django-parler-encore?branch=master
+
+django-parler-encore
+====================
+
+Gentle fork of django-parler
+
 
 django-parler
 =============

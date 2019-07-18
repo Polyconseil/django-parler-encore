@@ -34,7 +34,7 @@ def find_version(*parts):
 
 
 setup(
-    name='django-parler',
+    name='django-parler-encore',
     version=find_version('parler', '__init__.py'),
     license='Apache 2.0',
 
@@ -48,8 +48,11 @@ setup(
     author='Diederik van der Boor',
     author_email='opensource@edoburu.nl',
 
-    url='https://github.com/edoburu/django-parler',
-    download_url='https://github.com/edoburu/django-parler/zipball/master',
+    maintainer="Polyconseil",
+    maintainer_email="opensource+django-parler-encore@polyconseil.fr",
+
+    url='https://github.com/Polyconseil/django-parler-encore',
+    download_url='https://github.com/Polyconseil/django-parler-encore/zipball/master',
 
     packages=find_packages(exclude=('example*',)),
     include_package_data=True,
