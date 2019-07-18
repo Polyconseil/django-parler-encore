@@ -38,8 +38,8 @@ setup(
     version=find_version('parler', '__init__.py'),
     license='Apache 2.0',
 
-    requires=[
-        'Django (>=1.7)',
+    install_requires=[
+        'django>=1.11',
     ],
 
     description='Simple Django model translations without nasty hacks, featuring nice admin integration.',
